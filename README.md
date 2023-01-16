@@ -1,1 +1,1 @@
-# ML_Projects
+# Rihcter's prediction ML model
